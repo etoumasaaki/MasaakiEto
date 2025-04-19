@@ -1,4 +1,6 @@
-- 👋 Hi, I’m MasaakiEto.
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning MongoDB and SpringBoot.
+- 👋 I'm a developer currently learning Java.  
+- Lately, I've been interested in JUnit and the world of open source.
+
+- 📚 Currently learning: Java / Spring / Test Automation  
+- 🎯 Interests: OSS contributions, clean code, and team development
 
